@@ -39,8 +39,21 @@ npm i --save-dev @types/qs
 
 Add all files and folders to the root project directory "defiswap", overwrite when prompted.
 
+4- Create a new Alchemy API App for Ethereum Mainnet and update the API Key field with your
 
-4- Start your application, navigate to the project page and enjoy!
+Alchemy API Key in the defiswap.js file
+
+```shell
+ const config = {
+      apiKey: "PLACE YOUR API KEY",
+      network: Network.ETH_MAINNET,
+    };
+```
+
+Save File after updating!
+
+
+5- Start your application, navigate to the project page and enjoy!
 
 ```shell
 npm run dev
