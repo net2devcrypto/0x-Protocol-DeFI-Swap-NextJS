@@ -1,9 +1,7 @@
 # 0x-Protocol-DeFI-Swap-NextJS
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/n2Dex-img.png" width="220" height="80">
 
-👑 This is the best 0x Protocol DeFI Swap App built for NextJS - Add this addon to your existing NextJS Project for a full fledged powerful DeFI Swap Interface Functionality. Allow Users to exchange crypto right from your web front end. 
-
-##🚀👩‍🚀This repo contains all the files to add the n2DeX 0x Protocol DeFI Swap Interface to your NextJS Project! Be sure to watch my Youtube tutorial vid and follow along!
+👑 This is the best 0x Protocol DeFI Swap App built for NextJS - Add this addon to your existing NextJS Project for a full fledged powerful DeFI Swap Interface Functionality. Allow Users to exchange crypto right from your web front end.This repo contains all the files to add the n2DeX 0x Protocol DeFI Swap Interface to your NextJS Project! Be sure to watch my Youtube tutorial vid and follow along!
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
